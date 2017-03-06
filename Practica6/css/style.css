@@ -1,0 +1,43 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: Arial;
+	font-size: 12pt;
+}
+header{
+	font-family: 'courier';
+	background: #DF0101;
+	text-align: center;
+	font-size: 1.3em;
+}
+header nav ul li{
+	display: inline-block;
+	margin-right: 50px;
+	background: #000000;
+}
+.izquierda{
+	float: left;
+	margin-top: 40px;
+	margin-left: 500px;
+	width: 13%;
+	border-right: 5px solid #ccc;
+}
+.derecha{
+	float: right;
+	margin-right: 450px;
+	margin-top: 40px;
+}
+footer{
+	background: #080808;
+	clear: both;
+	width: 100%;
+}
+#footer-box{
+	text-align: center;
+	max-width: 900px;
+	color: #FFFF00;
+	font-size: 1em;
+	padding: 20px;
+}

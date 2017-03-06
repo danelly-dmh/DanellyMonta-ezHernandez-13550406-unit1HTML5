@@ -1,0 +1,48 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	line-height: 2;
+}
+body{
+	font-family: Arial;
+	font-size: 12pt;
+}
+header section{
+	font-family: "Oswald";
+	background: #FFBF00;
+	text-align: center;
+}
+#menu{
+	position: absolute;
+	top: 60px;
+	left: 40px;
+	margin-top: 10px;
+}	
+#articulos{
+	position: absolute;
+	left: 150px;
+	top: 60px;
+	margin-top: 2px;
+}
+article{
+	font-family: "Courier";
+	margin-bottom: 50px;
+}
+aside{
+	width: 20%;
+	float: right;
+	margin-top: 15px;
+	margin-left: 10px;
+	border: 5px dotted #585858;
+}
+aside div{
+	float: right;
+	margin-right: 15px;
+}
+
+footer{
+	clear: both;
+	width: 100%;
+	position: absolute;
+	bottom: 2%;
+}

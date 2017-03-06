@@ -1,0 +1,25 @@
+*{
+	margin: 4px solid;
+	padding: 0px;
+}
+h1{
+	font-family: 'Stencil';
+	text-align: center;
+	line-height: 1.6;
+}
+h2{
+	font-family: 'Brush Script MT';
+	margin-left: 200px;
+}
+p{
+	font-family: 'courier';
+	margin-left: 220px;
+}
+
+ul{
+	margin: 10em;
+}
+nav{
+	float: right;
+	width: 30%;
+}

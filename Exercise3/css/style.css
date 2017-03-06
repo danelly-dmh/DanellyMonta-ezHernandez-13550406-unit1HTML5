@@ -1,0 +1,47 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: Arial;
+	font-size: 12pt;
+}
+#header{
+	background: #F5A9BC;
+	text-align: center;
+}
+#logo{
+	float: right;
+}
+#mainheadings{
+	font-family: "Oswald", Arial;
+	font-size: 1.4em;
+}
+#container{
+	text-decoration: underline;
+}
+#mainnav{
+	display: inline-grid;
+	padding: 15px;
+	border-bottom: solid 15px #F7661B;
+}
+#sidenav{
+	font-size: 1.2em;
+	text-transform: uppercase;
+}
+#partnerlinks{
+	margin-bottom: 40px;
+	border-top: 2px solid #9A2EFE;
+	border-bottom: 2px solid #9A2EFE;
+	padding-bottom: 10px;
+	text-align: center;
+}
+#content{
+	margin-top: 15px;
+	line-height: 1.5;
+	color: #DF3A01;
+}
+#footer{
+	font-size: 1em;
+	padding: 20px;
+}
